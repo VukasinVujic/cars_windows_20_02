@@ -8,11 +8,10 @@
 </head>
 <body>
 
-    @foreach ($cars as $car)
+    <h1>show blade</h1>
 
-    <li><a href="{{ 'http://localhost/VIVIFY/napredni/Laravel/radOdkuce_20_02_cars/cars_20_02/public/cars/' . $car->id }}"> {{ $car->title }} </a></li>
-        
-    @endforeach
+    <h2>{{ $car->title }}</h2>
+
     
 </body>
 </html>
