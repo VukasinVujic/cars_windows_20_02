@@ -13,6 +13,7 @@
     <li><a href="{{ 'http://localhost/VIVIFY/napredni/Laravel/radOdkuce_20_02_cars/cars_20_02/public/cars/' . $car->id }}"> {{ $car->title }} </a></li>
         
     @endforeach
-    
+    <br>
+    <a href="http://localhost/VIVIFY/napredni/Laravel/radOdkuce_20_02_cars/cars_20_02/public/">Home</a>
 </body>
 </html>

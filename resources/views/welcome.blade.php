@@ -87,15 +87,9 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
                     <a href="http://localhost/VIVIFY/napredni/Laravel/radOdkuce_20_02_cars/cars_20_02/public/about">ABOUT US</a>
-
+                    <a href="http://localhost/VIVIFY/napredni/Laravel/radOdkuce_20_02_cars/cars_20_02/public/cars">All cars</a>
+                    
                 </div>
             </div>
         </div>

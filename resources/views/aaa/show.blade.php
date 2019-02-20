@@ -12,6 +12,5 @@
 
     <h2>{{ $car->title }}</h2>
 
-    
 </body>
 </html>
