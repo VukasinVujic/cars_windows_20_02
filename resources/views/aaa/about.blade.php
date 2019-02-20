@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    welcome to cars Project
+                    about us
                 </div>
 
                 <div class="links">
